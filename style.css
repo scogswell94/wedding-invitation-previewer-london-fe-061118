@@ -21,21 +21,13 @@ h1, h4 {
   border: 2px dotted red;
 }
 
-#nav-container {
-  text-align: center;
-}
+
 
 p {
   display: inline-block;
   padding: 5px;
   margin:10px;
-
   
-}
-
-#nav-container p  {
-  background-color: green;
-  text-decoration: none;
 }
 
 .full-container {
