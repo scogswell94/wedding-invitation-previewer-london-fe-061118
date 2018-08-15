@@ -7,9 +7,6 @@ body {
   text-align: center;
   padding: 20px;
 }
-img {
-    float: right;
-}
 
 span {
   text-align: center;
@@ -18,9 +15,8 @@ span {
 
 h1, h4 {
   text-align: center;
-  border: 2px dotted red;
+  
 }
-
 
 
 p {
