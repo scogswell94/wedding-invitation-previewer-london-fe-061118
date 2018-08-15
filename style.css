@@ -133,9 +133,9 @@ li a:hover:not(.active) {
  
  .insert {
    display: block;
-   justify-content: center;
+  
    padding-left:20px;
-   margin: 20px;
+   
    border: 1px solid #73AD21;
    width: 140px;
    height: 7px;
