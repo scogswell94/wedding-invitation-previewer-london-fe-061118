@@ -95,11 +95,6 @@ li a:hover:not(.active) {
      padding-left: 150px;
  }
  
- button {
-   font-size: 12px;
-   font-weight: bold;
-   padding: 20px;
- }
  
  form {
    padding-left: 10px;
