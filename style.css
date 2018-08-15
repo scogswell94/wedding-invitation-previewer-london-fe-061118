@@ -134,11 +134,11 @@ li a:hover:not(.active) {
  
  
  .input-container {
-   border: 2px dotted black;
    display: flex;
    justify-content: flex-end;
    width: 210px;
    height: 250px;
+   border: 2px dotted black;
   
  } 
  
