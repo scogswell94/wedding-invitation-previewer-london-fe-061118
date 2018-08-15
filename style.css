@@ -136,7 +136,7 @@ li a:hover:not(.active) {
  #input-container {
    width: 210px;
    height: 250px;
-   background-color: red;
+   background-color: light-blue;
  } 
  
  .insert {
