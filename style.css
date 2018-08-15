@@ -48,10 +48,7 @@ p {
   display: inline-block;
 
  }
- 
- .box-fill {
-   border-color: 1px, block, red;
- }
+
  
  input[type=text] {
     width: 90%;
@@ -70,7 +67,6 @@ p {
 
 li {
     float: left;
-    
 }
 
 li  {
@@ -85,7 +81,9 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
-
+.active {
+    background-color: #4CAF50;
+}  
     
  form {
    padding-left: 10px;
