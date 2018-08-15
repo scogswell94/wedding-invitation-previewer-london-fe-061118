@@ -134,6 +134,8 @@ li a:hover:not(.active) {
  
  
  #input-container {
+   display: flex;
+   justify-content: flex-end;
    width: 210px;
    height: 250px;
    background-color: blue;
