@@ -127,7 +127,7 @@ li a:hover:not(.active) {
     width: 15%;
     border: 2px solid #73AD21;
     padding: 20px;
-    z-index: ;
+    z-index: 4;
  } 
  
  .insert {
