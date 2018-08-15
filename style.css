@@ -40,7 +40,7 @@ p {
 
 .full-container {
   height: 700px;
-  width: 1250px;
+  width: 100%;
   border: 2px dotted red;
   
 }
