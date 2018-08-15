@@ -142,8 +142,7 @@ li a:hover:not(.active) {
  } 
  
  .insert {
-   display: flex;
-   justify-content: space-between;
+   
    display: block;
    padding-left:20px;
    margin: 20px;
