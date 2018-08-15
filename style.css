@@ -134,7 +134,9 @@ li a:hover:not(.active) {
  
  
  #input-container {
-   margin: auto;
+   display: flex;
+   justify-content: right;
+    margin: auto;
     width: 15%;
     border: 2px solid #73AD21;
     padding: 20px;
@@ -142,6 +144,8 @@ li a:hover:not(.active) {
  } 
  
  .insert {
+   
+   
    display: block;
    padding-left:20px;
    margin: 20px;
