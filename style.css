@@ -141,13 +141,13 @@ li a:hover:not(.active) {
  
  .left {
    float: left;
-   width: 45%;
+   width: 50%;
    background-color: blue;
  }
  
  .right {
    float: right;
    background-color: red;
-   width: 45%;
+   width: 50%;
  }
  
