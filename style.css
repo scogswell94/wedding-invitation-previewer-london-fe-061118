@@ -84,7 +84,7 @@ li a:hover:not(.active) {
  
  .right {
    float: right;
-   background-color: red;
+   
    width: 50%;
    height: 100%;
  }
