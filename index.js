@@ -1,7 +1,7 @@
 
 document.addEventListener("DOMContentLoaded", e => {
-  console.log(document.getElementById("one"))
- document.getElementById("one").addEventListener("click", function(){
+  console.log(document.getElementById("input-container"))
+ document.getElementById("input-container").addEventListener("click", function(){
    console.log("Clicked")
   document.querySelector("img").setAttribute("src","https://png.pngtree.com/element_origin_min_pic/17/04/26/092f719b18ffecdf115f60326030b529.jpg") 
 });
