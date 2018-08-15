@@ -43,6 +43,7 @@ p {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    border: 1px dotted red;
 }
 
 li {
