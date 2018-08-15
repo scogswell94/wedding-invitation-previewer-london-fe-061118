@@ -38,19 +38,8 @@ p {
   text-decoration: none;
 }
 
-.full-container {
-  height: 700px;
-  width: 1250px;
-  border: 2px dotted red;
-  
-}
 
 
-.container {
-  display: flex;
-  display: inline-block;
-
- }
  
  .box-fill {
    border-color: 1px, block, red;
