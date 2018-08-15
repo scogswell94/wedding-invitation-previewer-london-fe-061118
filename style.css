@@ -68,18 +68,8 @@ p {
     
 }
  
- .left {
-   width: 50%;
-   height: 500px;
-   background-color: red;
-   border: 2px dotted black;
- }
- .right {
-   width: 50%;
-   height: 500px;
-   background-color: red;
-   border: 2px dotted black;
- }
+ 
+ 
  
  ul {
     list-style-type: none;
