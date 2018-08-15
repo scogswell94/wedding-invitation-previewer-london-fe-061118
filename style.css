@@ -1,0 +1,154 @@
+body {
+    background-color: white;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif; 
+}
+
+.top-page {
+  text-align: center;
+  padding: 20px;
+}
+img {
+    float: right;
+}
+
+span {
+  text-align: center;
+  font-size: 40px;
+}
+
+h1, h4 {
+  text-align: center;
+  border: 2px dotted red;
+}
+
+#nav-container {
+  text-align: center;
+}
+
+p {
+  display: inline-block;
+  padding: 5px;
+  margin:10px;
+
+  
+}
+
+#nav-container p  {
+  background-color: green;
+  text-decoration: none;
+}
+
+.full-container {
+  height: 700px;
+  width: 1250px;
+  border: 2px dotted red;
+  
+}
+.square {
+  height: 300px;
+  width: 300px;
+  background-color: #555;
+  border-color: 1px, block, red;
+}
+
+.container {
+  display: flex;
+  display: inline-block;
+
+ }
+ 
+ .box-fill {
+   border-color: 1px, block, red;
+ }
+ 
+ input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+}
+ 
+ .left {
+   width: 50%;
+   height: 500px;
+   background-color: red;
+   border: 2px dotted black;
+ }
+ .right {
+   width: 50%;
+   height: 500px;
+   background-color: red;
+   border: 2px dotted black;
+ }
+ 
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    
+}
+
+li  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}  
+    
+ 
+ footer { 
+    text-align: left;
+     padding-left: 150px;
+ }
+ 
+ button {
+   font-size: 12px;
+   font-weight: bold;
+   padding: 10px;
+ }
+ 
+ .fab {
+   padding: 10px;
+   
+   
+ }
+ 
+ form {
+   padding-left: 80px;
+ }
+ 
+ 
+ .input-container {
+   border: 2px dotted black;
+   float: right;
+   width: 200px;
+   height: 250px;
+  
+ } 
+ 
+ .insert {
+   display: block;
+   padding-left:20px;
+   margin: 20px;
+   border: 2px dotted black;
+   width: 140px;
+   height: 7px;
+   
+ }
+ 
+ 
