@@ -17,9 +17,6 @@ span {
   font-size: 40px;
 }
 
-
-
-
 p {
   display: inline-block;
   padding: 5px;
@@ -29,6 +26,7 @@ p {
 
 .full-container {
   height: 100%;
+  border: 1px red;
 }
 
  input[type=text] {
