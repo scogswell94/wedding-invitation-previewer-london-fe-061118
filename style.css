@@ -135,7 +135,7 @@ li a:hover:not(.active) {
  
  .input-container {
    display: flex;
-   justify-content: flex-end;
+   justify-content: space-between;
    width: 210px;
    height: 250px;
    border: 2px dotted black;
