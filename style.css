@@ -125,7 +125,7 @@ li a:hover:not(.active) {
    float: right;
     
     width: 30%;
-    height: 80%;
+    height: 100%;
     padding: 20px;
     background-image: url("https://i.pinimg.com/originals/71/d8/28/71d828c3ca9135c1e810021366651726.png");
     background-size: cover;
