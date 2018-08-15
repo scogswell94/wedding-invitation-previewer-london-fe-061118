@@ -24,10 +24,26 @@ p {
   
 }
 
+
+
+/* containers*/ 
+
 .full-container {
   height: 100%;
   border: 1px dotted red;
 }
+
+ .left {
+   float: left;
+   width: 50%;
+   height: 100%;
+ }
+ 
+ .right {
+   float: right;
+   width: 50%;
+   height: 100%;
+ }
 
  input[type=text] {
     width: 90%;
@@ -77,6 +93,7 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }  
     
+ /* footer*/
  
   footer { 
     text-align: center;
