@@ -135,7 +135,7 @@ li a:hover:not(.active) {
  
  #input-container {
    margin: auto;
-    width: 60%;
+    width: 30%;
     border: 3px solid #73AD21;
     padding: 10px;
  } 
