@@ -33,8 +33,11 @@ p {
     width: 90%;
     padding: 12px 20px;
     margin: 4px 0;
-
 }
+
+ form {
+   padding-left: 10px;
+ }
  
  /* nav */
  ul {
@@ -66,9 +69,7 @@ li a:hover:not(.active) {
     background-color: #4CAF50;
 }  
     
- form {
-   padding-left: 10px;
- }
+
  
  #input-container {
     padding: 20px;
