@@ -135,7 +135,7 @@ li a:hover:not(.active) {
  
  .input-container {
    border: 2px dotted black;
-   float: right;
+   
    width: 600px;
    height: 250px;
   
