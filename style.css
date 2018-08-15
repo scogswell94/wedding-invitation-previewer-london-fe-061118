@@ -142,11 +142,10 @@ li a:hover:not(.active) {
  } 
  
  .insert {
-   
    display: block;
    padding-left:20px;
    margin: 20px;
-   border: 2px dotted black;
+   border: 1px solid #73AD21;
    width: 140px;
    height: 7px;
    
